@@ -1,7 +1,7 @@
 genome IRGSP-1.0
 organism Oryza sativa
-twoBitPath https://usegalaxy.org/api/datasets/f9cad7b01a472135ada09bd59724a4a6/display?to_ext=twobit
-chromSizes https://usegalaxy.org/api/datasets/f9cad7b01a472135cf7b2b1f44e8e93a/display?to_ext=tabular
-trackDb https://usegalaxy.org/api/datasets/f9cad7b01a472135c3d7172498cb665f/display?to_ext=txt
+twoBitPath https://SuzieP96.github.io/nipponbare-hub/IRGSP-1.0/Oryza_sativa.IRGSP-1.0.dna.toplevel.2bit
+chromSizes https://SuzieP96.github.io/nipponbare-hub/IRGSP-1.0/Oryza_sativa.IRGSP-1.0.chrom.sizes
+trackDb https://SuzieP96.github.io/nipponbare-hub/IRGSP-1.0/trackDb.txt
 defaultPos chr9:1-1000000
-htmlPath https://usegalaxy.org/api/datasets/f9cad7b01a4721357765d591de992edb/display?to_ext=txt
+htmlPath https://SuzieP96.github.io/nipponbare-hub/IRGSP-1.0/rice_genome_description.html
