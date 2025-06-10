@@ -1,0 +1,6 @@
+hub RiceGenomeHub
+shortLabel Rice Genome
+longLabel Rice Genome IRGSP-1.0
+genomesFile https://usegalaxy.org/api/datasets/f9cad7b01a472135d1f25138e2ab52fa/display?to_ext=txt
+email power.suzanne@courrier.uqam.ca
+descriptionUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135ebc6813a083c67b1/display?to_ext=txt

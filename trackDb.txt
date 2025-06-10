@@ -1,0 +1,9 @@
+track rice_annotation
+shortLabel Rice Annotations
+longLabel Rice IRGSP-1.0 Annotations from GFF3
+type bigBed 6
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721357e26d988f855ccce/display?to_ext=bigbed
+visibility pack
+autoScale on
+color 0,0,255
+html https://usegalaxy.org/api/datasets/f9cad7b01a4721356ac323b0130d7bb9/display?to_ext=txt
