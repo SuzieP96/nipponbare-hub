@@ -1,6 +1,6 @@
 genome IRGSP-1.0
 organism Oryza sativa
-twoBitPath https:twoBitPath https://SuzieP96.github.io/nipponbare-hub/Oryza_sativa.IRGSP-1.0.dna.toplevel.2bit
+twoBitPath https://SuzieP96.github.io/nipponbare-hub/Oryza_sativa.IRGSP-1.0.dna.toplevel.2bit
 chromSizes https://SuzieP96.github.io/nipponbare-hub/Oryza_sativa.IRGSP-1.0.chrom.sizes
 trackDb https://SuzieP96.github.io/nipponbare-hub/trackDb.txt
 defaultPos chr9:1-1000000
